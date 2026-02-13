@@ -1,0 +1,28 @@
+# Core
+numpy==1.26.4
+pandas==2.2.2
+ipython==8.26.0
+
+# Visualizaciones
+matplotlib==3.9.2
+seaborn==0.13.2
+
+
+# NLP
+nltk==3.9.1
+gensim==4.3.3
+wordcloud==1.9.3
+
+# Web Semántica
+SPARQLWrapper==2.0.0
+rdflib==7.0.0
+
+
+# Jupyter stack (versiones compatibles)
+jupyterlab==4.2.5
+
+# ML
+scikit-learn==1.5.2
+
+
+
